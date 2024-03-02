@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=SIM.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=SIM.SchDoc|Designator=U_1.POWER|SchDesignator=U_1.POWER|FileName=1.POWER.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=1.POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SIM.SchDoc|Designator=U_2.4G|SchDesignator=U_2.4G|FileName=2.4G.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=2.4G.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SIM.SchDoc|Designator=U_4.STM32|SchDesignator=U_4.STM32|FileName=4.STM32.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=4.STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SIM.SchDoc|Designator=U_5.RS485|SchDesignator=U_5.RS485|FileName=5.RS485.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=5.RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
