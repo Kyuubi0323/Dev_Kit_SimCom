@@ -56,7 +56,7 @@ dkms.conf
 *History/
 *.SchDocPreview
 *build/
-*.rar
+#*.rar
 *.Dat
 *.LOG
 *__Previews/
